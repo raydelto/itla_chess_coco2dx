@@ -1,0 +1,8 @@
+proj.android/bin
+proj.android/libs
+proj.android/obj
+proj.android/gen
+proj.win32/ITLAChess.opensdf
+proj.win32/ITLAChess.v12.suo
+proj.win32/Debug.win32
+cocos2d
